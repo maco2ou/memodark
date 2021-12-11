@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<!-- 罫線　今は使ってない -->
-    <bool name="uselines_off">false</bool>
-    <bool name="uselines_on">true</bool>
-</resources>

@@ -57,7 +57,7 @@
     <string name="input_numerical_value">請輸入數值。</string>
     <string name="Timer_Set">定時器設置</string>
     <string name="timer_sample">請設置定時器。</string>
-    <string name="ver_app">Ver.1.0</string>
+    <string name="ver_app">Ver.1.2</string>
     <string name="title_activity_setting">設置</string>
     <string name="darkmode">黑暗模式</string>
     <string name="theme_change">主題改變！</string>
@@ -151,5 +151,15 @@
     <string name="now_loading">正在加载中…</string>
     <string name="I_m_sorry_reading_failed">对不起。加载失败。</string>
     <string name="Failure">失败…</string>
-
+    <string name="about">关于</string>
+    <string name="License" >许可证</string>
+    <string name="about_rate" >在 Playstore 给我们评分</string>
+    <string name="about_open_source_license" >开源许可</string>
+    <string name="about_translate" >关于翻译</string>
+    <string name="Feedback" >反馈</string>
+    <string name="about_feedback" >反馈给我们</string>
+    <string name="Send_feedback">发送反馈…</string>
+    <string name="There_are_no_email_clients_installed">没有安装电子邮件客户端。</string>
+    <string name="Please_enter_a_message">请输入信息。</string>
+    <string name="Please_enter_your_email_address">请输入您的电子邮件地址。</string>
 </resources>

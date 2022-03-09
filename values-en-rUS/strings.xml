@@ -57,7 +57,7 @@
     <string name="input_numerical_value">Please input a numerical value.</string>
     <string name="Timer_Set">Timer Set</string>
     <string name="timer_sample">Please set the timer.</string>
-    <string name="ver_app">Ver.1.1</string>
+    <string name="ver_app">Ver.1.2</string>
     <string name="title_activity_setting">Setting</string>
     <string name="darkmode">Dark Mode</string>
     <string name="theme_change">Theme Change!</string>
@@ -151,5 +151,15 @@
     <string name="now_loading">Now Loading…</string>
     <string name="I_m_sorry_reading_failed">I\'m sorry. Loading has failed.</string>
     <string name="Failure">Failure…</string>
-
+    <string name="about">About</string>
+    <string name="License" >License</string>
+    <string name="about_rate" >Rate us on Play store</string>
+    <string name="about_open_source_license" >Open source license</string>
+    <string name="about_translate" >About translate</string>
+    <string name="Feedback" >Feedback</string>
+    <string name="about_feedback" >Feedback us back</string>
+    <string name="Send_feedback">Send feedback…</string>
+    <string name="There_are_no_email_clients_installed">There are no email clients installed.</string>
+    <string name="Please_enter_a_message">Please enter a message.</string>
+    <string name="Please_enter_your_email_address">Please enter your email address.</string>
 </resources>

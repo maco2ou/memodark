@@ -57,7 +57,7 @@
     <string name="input_numerical_value">有効な数字を入力して下さい</string>
     <string name="Timer_Set">タイマーをセットしました</string>
     <string name="timer_sample">例：1時間30分後にリマインドする場合 = 「1.5」と入力して下さい。\n（最大で24時間＝「24」まで）</string>
-    <string name="ver_app">Ver.1.1</string>
+    <string name="ver_app">Ver.1.2</string>
     <string name="title_activity_setting">設定</string>
     <string name="darkmode">ダークモード</string>
     <string name="theme_change">テーマを変更しました</string>
@@ -151,4 +151,15 @@
     <string name="now_loading">読み込み中…</string>
     <string name="I_m_sorry_reading_failed">読み取りに失敗しました</string>
     <string name="Failure">予期せぬ異常です…</string>
+    <string name="about">アプリについて</string>
+    <string name="License">ライセンス</string>
+    <string name="about_rate">アプリを評価する</string>
+    <string name="about_open_source_license">オープンソースライセンス</string>
+    <string name="about_translate">翻訳について</string>
+    <string name="Feedback">フィードバック</string>
+    <string name="about_feedback">フィードバックを送信する</string>
+    <string name="Send_feedback">フィードバックを送信します</string>
+    <string name="There_are_no_email_clients_installed">メールアプリがインストールされていません</string>
+    <string name="Please_enter_a_message">メッセージを入力して下さい</string>
+    <string name="Please_enter_your_email_address">メールアドレスを入力して下さい</string>
 </resources>

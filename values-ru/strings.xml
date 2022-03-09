@@ -57,7 +57,7 @@
     <string name = "input_numerical_value">Пожалуйста, введите числовое значение. </string>
     <string name = "Timer_Set">Набор таймера </string>
     <string name = "timer_sample">Установите таймер. </string>
-    <string name = "ver_app">ver.1.1</string>
+    <string name = "ver_app">ver.1.2</string>
     <string name = "title_activity_setting">Настройка </string>
     <string name = "darkmode">Темный режим </string>
     <string name = "theme_change">Смена темы! </string>
@@ -151,5 +151,15 @@
     <string name="now_loading">Идет загрузка…</string>
     <string name="I_m_sorry_reading_failed">Прошу прощения. Загрузка не удалась.</string>
     <string name="Failure">Ошибка…</string>
-
+    <string name="about">о примерно</string>
+    <string name="License" >Лицензия</string>
+    <string name="about_rate" >Оцените нас в Play Маркете</string>
+    <string name="about_open_source_license" >Лицензия с открытым исходным кодом</string>
+    <string name="about_translate" >О переводе</string>
+    <string name="Feedback" >Отзыв</string>
+    <string name="about_feedback" >Отправьте нам отзыв</string>
+    <string name="Send_feedback">Отправить отзыв…</string>
+    <string name="There_are_no_email_clients_installed">Почтовые клиенты не установлены.</string>
+    <string name="Please_enter_a_message">Пожалуйста, введите сообщение.</string>
+    <string name="Please_enter_your_email_address">Пожалуйста, введите свой адрес электронной почты.</string>
 </resources>

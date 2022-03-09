@@ -57,7 +57,7 @@
     <string name="input_numerical_value">Bitte geben Sie einen numerischen Wert ein.</string>
     <string name="Timer_Set">Timer-Set</string>
     <string name="timer_sample">Bitte stellen Sie den Timer ein.</string>
-    <string name="ver_app">Ver.1.1</string>
+    <string name="ver_app">Ver.1.2</string>
     <string name="title_activity_setting">Einstellung</string>
     <string name="darkmode">Dunkelmodus</string>
     <string name="theme_change">Themenwechsel!</string>
@@ -151,5 +151,15 @@
     <string name="now_loading">Wird geladen…</string>
     <string name="I_m_sorry_reading_failed">Es tut mir leid. Das Laden ist fehlgeschlagen.</string>
     <string name="Failure">Fehler…</string>
-
+    <string name="about">Über</string>
+    <string name="License" >Lizenz</string>
+    <string name="about_rate" >Bewerten Sie uns im Play Store</string>
+    <string name="about_open_source_license" >Open-Source-Lizenz</string>
+    <string name="about_translate" >Über das Übersetzen</string>
+    <string name="Feedback" >Feedback</string>
+    <string name="about_feedback" >Gib uns Feedback</string>
+    <string name="Send_feedback">Feedback senden…</string>
+    <string name="There_are_no_email_clients_installed">Es sind keine E-Mail-Clients installiert.</string>
+    <string name="Please_enter_a_message">Bitte geben Sie eine Nachricht ein.</string>
+    <string name="Please_enter_your_email_address">Bitte geben Sie Ihre E-Mail-Adresse ein.</string>
 </resources>

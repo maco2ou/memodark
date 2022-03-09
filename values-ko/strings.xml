@@ -57,7 +57,7 @@
     <string name="input_numerical_value">숫자 값을 입력하십시오.</string>
     <string name="Timer_Set">타이머 세트</string>
     <string name="timer_sample">타이머를 설정하십시오.</string>
-    <string name="ver_app">ver.1.1</string>
+    <string name="ver_app">ver.1.2</string>
     <string name="title_activity_setting">설정</string>
     <string name="darkmode">다크 모드</string>
     <string name="theme_change">테마 변경!</string>
@@ -151,5 +151,15 @@
     <string name="now_loading">지금 로드 중…</string>
     <string name="I_m_sorry_reading_failed">죄송합니다. 로드에 실패했습니다.</string>
     <string name="Failure">실패…</string>
-
+    <string name="about">정보</string>
+    <string name="License" >라이센스</string>
+    <string name="about_rate" >Play 스토어에서 평가하기</string>
+    <string name="about_open_source_license" >오픈 소스 라이선스</string>
+    <string name="about_translate"> 번역 정보</string>
+    <string name="Feedback" >피드백</string>
+    <string name="about_feedback">>피드백</string>
+    <string name="Send_feedback">의견 보내기…</string>
+    <string name="There_are_no_email_clients_installed">설치된 이메일 클라이언트가 없습니다.</string>
+    <string name="Please_enter_a_message">메시지를 입력하십시오.</string>
+    <string name="Please_enter_your_email_address">이메일 주소를 입력하십시오.</string>
 </resources>
